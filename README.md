@@ -214,3 +214,11 @@ DELETE /tasks/{task_id}
 * PATCH
 * DELETE
 * GET by id
+
+---
+
+## Автор
+
+Лабораторная работа №2 по дисциплине **Веб-программирование**.
+
+Тема: разработка REST API сервиса с использованием FastAPI, PostgreSQL, Docker и Alembic.
